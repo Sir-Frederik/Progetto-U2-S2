@@ -34,8 +34,10 @@ body {
   border: 1px solid white;
   background-color: black;
   color: white;
-  min-width: 60px;
+  width: 100px;
+  padding: 6px 10px;
+  height: 35px;
 }
 .dropdown-menu {
-  max-width: 60px;
+  width: 50px;
 }
