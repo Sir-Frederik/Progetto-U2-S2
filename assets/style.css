@@ -41,3 +41,13 @@ body {
 .dropdown-menu {
   width: 50px;
 }
+h2 {
+  font-size: 2rem;
+}
+.col-xl-2 a div {
+  transition: transform 0.3s ease;
+}
+
+.col-xl-2 a div:hover {
+  transform: scale(1.1);
+}
