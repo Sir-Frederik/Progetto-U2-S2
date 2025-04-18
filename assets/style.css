@@ -1,0 +1,12 @@
+/* .inter-<uniquifier > {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+} */
+
+body {
+  background-color: #141414;
+  font-family: "Inter", sans-serif;
+  color: white;
+}
